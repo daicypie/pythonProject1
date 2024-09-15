@@ -1,5 +1,5 @@
 # Коментар
 print("Hello, World!")
 
-x = 2
+x = 16
 print(x)
